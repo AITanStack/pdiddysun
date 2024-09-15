@@ -1,13 +1,13 @@
-ShowTipsView
+MFC
 ============
 
-ShowTipsView let you highligth specific points of interest of your app.
+MFC let you highligth specific points of interest of your app.
 
-<a href="" target="_blank"><img src="https://github.com/fredericojssilva/ShowTipsView/blob/master/sample.png"/></a>
+<a href="" target="_blank"><img src="https://github.com/fredericojssilva/MFC/blob/master/sample.png"/></a>
 
 Usage
 ====
-    ShowTipsView showtips = new ShowTipsBuilder(this)
+    MFC showtips = new ShowTipsBuilder(this)
 		.setTarget(btn_test)
 		.setTitle("A magnific button")
 		.setDescription("This button do nothing so good")
@@ -41,9 +41,9 @@ To only display the tip one time just call displayOneTime(int showtipId) on the 
 
 <u>showtipId</u> is a unique id for that tip.
 
-[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-ShowTipsView-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/1132)
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-MFC-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/1132)
 
-## License
+# MFC
 Copyright (c) 2014 Frederico Silva
 
 Licensed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
