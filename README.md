@@ -43,7 +43,7 @@ To only display the tip one time just call displayOneTime(int showtipId) on the 
 
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-MFC-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/1132)
 
-# MFC
+# pdiddysun
 Copyright (c) 2014 Frederico Silva
 
 Licensed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
